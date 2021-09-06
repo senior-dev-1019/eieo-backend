@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "loschaneques-mexico",
+  "private_key_id": "3a311840c629bfec062e778ca553f101bc494af4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCz+KyGq3GBj1dW\n/z9//QFYeGfPlIuL3q1mLMamnSebAv6RF4aczGBBasFIl4GD2UnEpdbNVJ8TTRI4\nbDo45bW7f9crKmou2Bu5Hyundi3Yh1ZuB3YXPwnKqAn8K/fhoGYjzD+xbi6zkV0Q\ntkMSlKhaHWemfJVXYq82m8YZmzytfh9zl6uxerfwq53vdnuTTwPB/PkDG/2T08/U\na80L1BZJ4Ap0T27lkR669ZqICZfhGk/hA6jTup16XgY7d4hbKyaWcBEUDf1vW5Zm\nLx40rtFbEe2d/ChXoOi68EIpJvqnXeukfeq/D//l//ZsbOTxLRAWwkqYZIaAhioP\njx71cF9BAgMBAAECggEAE7hCxzrP5B9dtZWgUpjZZeVDkrY3GCtdGp37YlRD+7M3\nS5SlVlb6kRBuf1LCiTzs3VRClhsYlxfR0EbjlkptQE9At2UdX2akmwM0WFQVr+0c\nZlAA+4kXvJHvDiePMLTPnEqMDBgDm/9okCU4cjfBvqYMLmzmPD3+7t/gs/uTiXrh\nw65ypDpHH6clvji/F9jPE1T9GXk2Xp5n0N6R0CP1GFe+BjvTeoENdhJeTuGcAQRK\n/9d9qFWjJLFatBIglwVuXnc4fTlB8224G5TAnhYEstTHZLHD3jzrMKihzbgA25Im\nacRZnp6XS07YgpZf7xFxFwZQj9gDUwJ7yHL677o8tQKBgQD6eFHbBZZ3H5sS8g7T\nAMa5rumnX94BHz8CB1fztAb/bzj6mD68B6q+CJYkXrcbpap8u9k4nudhfJc/hudR\nXD4YxUsoo8uw0I9IWdDN4TIU9lVzaipZcmdIMd0EwyZq2PuCl+wPKk5LW2pKwX0n\n+RsuZnpGaB4O1u0AJ/QwF57VPwKBgQC38eOpAUZ9tW0upOezY4OWHDMRPOqklcdy\nUHfkp3x6IKycNoygh/ciYHTEOacWAJq18X3ylVFz4M+sqnsD8LN3RbKLqY6VUjLi\nqTI1RhiRcOlRC75lDTIpOy/iupsL9BDYNSXBGDB4wrEy1e8dEIw5uf/OERjUdSof\nWtVQPG0rfwKBgDt7j5UAQrePnfhl2/doW8mFLKA/OC30Cbaln9GUk4TeGR4KQfvN\nplLzHxUMGVhLg62TvwafVjvkptbDZvP/gA/J6wt/usQHA8Ae9GOwc4Be7/Q05lHP\nxY9zqBWVcu41EaX2Bm2jkmx7DUcrpFl142qlk6xc1aaYjDhZRLiXI3VpAoGBAKFD\nf8P7SkGLfV0XVcr/w60mq97A+TWx2lluEq5z571qR+nsKP3UNeX9imE96i5v+TLp\ntPGn1vEwduF51L9vludKQ24OCOMAXXw5ubra6U8ZHnPfR9xv5Togmaq8zpF8OAhV\nD/RpsJUumwtmY2unxkgVuR5//rTEw1kZ2UmusEchAoGBAPahSYqvTGrDrOyCAT53\nYX6LKomWOjnx5q/xnVtwqhQ8nLo5eNehIIgTV63dWKImDXAqkZ1xwhH+8sKXfkCE\nSoQFzZfV4nlxLq4szZf811YnK7SsnWU19w8m07YJD7HPKAFkWqhMVQvWuE+vIc7s\n8CWM1nP+393/79kvowIUMjYz\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fqo97@loschaneques-mexico.iam.gserviceaccount.com",
+  "client_id": "114707056983330977733",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fqo97%40loschaneques-mexico.iam.gserviceaccount.com"
+}
